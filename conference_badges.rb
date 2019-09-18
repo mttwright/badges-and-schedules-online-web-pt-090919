@@ -18,3 +18,5 @@ def assign_rooms(array)
     "Hello, #{speakers}! You'll be assigned to room #{counter}!"
   end
 end
+
+
