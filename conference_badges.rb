@@ -20,5 +20,7 @@ def assign_rooms(array)
 end
 
 def printer(array)
-  new_array = 
+  new_array = assign_rooms(array)
+  new_array.each do |ciabatta|
+    puts 
 end
