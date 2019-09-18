@@ -25,3 +25,10 @@ def printer(array)
     puts "#{ciabatta}"
   end
 end
+
+
+
+ham = ["EeL", "Veal"]
+
+
+printer(ham)
