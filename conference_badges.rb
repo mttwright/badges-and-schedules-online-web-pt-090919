@@ -24,6 +24,10 @@ def printer(array)
   new_array.each do |ciabatta|
     puts ciabatta
   end
+  new_array = assign_rooms(array)
+  new_array.each do |ciabatta|
+    puts ciabatta
+  end
 end
 
 
